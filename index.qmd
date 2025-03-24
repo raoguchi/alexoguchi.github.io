@@ -1,0 +1,16 @@
+---
+title: "Home"
+format: html
+---
+
+# Alex Oguchi
+
+I'm a graduate student in Business Analytics at UC San Diego with a background in economics, international business, and data science. My work focuses on applied machine learning, data analysis, and building comprehensive analysis on data.
+
+This site highlights selected projects in:
+- Data visualization (D3.js, Tableau, Svelte)
+- Machine learning (Scikit-learn, PyTorch)
+- ETL pipelines and data engineering (SQL, Postgres, Snowflake)
+- Data Analysis (Python, Pandas, Numpy. Statsmodels)
+
+View my [projects](projects.qmd), learn more [about me](about.qmd), or visit my [GitHub](https://github.com/raoguchi).

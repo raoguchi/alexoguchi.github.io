@@ -1,0 +1,73 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+A collection of course and personal projects across machine learning, data visualization, and analytics.
+
+---
+
+## 📍 Coordinate Descent – CSE 251A  
+Explore optimization using coordinate descent on convex loss functions.  
+🔗 [Live Site](https://raoguchi.github.io/COORDINATE_DESC_C251/) | 💻 [GitHub](https://github.com/raoguchi/COORDINATE_DESC_C251)
+
+---
+
+## 🧠 Prototype Selection – CSE 251A  
+Instance-based learning with MNIST using Random, CNN, and K-Means methods.  
+🔗 [Live Site](https://raoguchi.github.io/PROTOTYPE_SELECTION_C251/) | 💻 [GitHub](https://github.com/raoguchi/PROTOTYPE_SELECTION_C251)
+
+---
+
+## 🖼️ Image Machine Learning vs Prototypes vs Deep Learning Algorithms – MGTA 415
+Comparison of different prototype selection methods against Deep Learning algorithms and adaptive learning methods.  
+🔗 [Live Site](https://raoguchi.github.io/IMAGE_ML_VS_PROTOTYPES/) | 💻 [GitHub](https://github.com/raoguchi/IMAGE_ML_VS_PROTOTYPES)
+
+---
+
+## 📊 CAPES Salary Analysis – MGTA 457  
+Tableau dashboards on pay equity, performance, and gender in academia.  
+🔗 [Live Site](https://raoguchi.github.io/CAPES_BI_SALARY_ANALYSIS/) | 💻 [GitHub](https://github.com/raoguchi/CAPES_BI_SALARY_ANALYSIS)
+
+---
+
+## 🕹️ League of Legends Esports Analysis  
+Interactive dashboards of League of Legends esports performance and meta trends.  
+🔗 [Live Site](https://raoguchi.github.io/LOL_ESPORTS_ANALYSIS/) | 💻 [GitHub](https://github.com/raoguchi/LOL_ESPORTS_ANALYSIS)
+
+---
+
+## ⚾ MLB Interactive Visualization - DSC 106 
+Stat exploration for pitching attributes using interactive visualizations.  
+🔗 [Live Site](https://raoguchi.github.io/INTERACTIVE_VIZ_MLB/) | 💻 [GitHub](https://github.com/raoguchi/INTERACTIVE_VIZ_MLB)
+
+---
+
+## 📉 SVM Visualizer – DSC 106 
+Animated SVM decision boundary and margin exploration with baseball features.  
+🔗 [Live Site](https://raoguchi.github.io/SVM_VIZ_MLB/) | 💻 [GitHub](https://github.com/raoguchi/SVM_VIZ_MLB)
+
+---
+
+## 🔄 ETL Pipeline – MGTA 464  
+End-to-end data pipeline: extracting, transforming, and loading a business dataset.  
+🔗 [Live Site](https://raoguchi.github.io/ETL_MGTA464/) | 💻 [GitHub](https://github.com/raoguchi/ETL_MGTA464)
+
+---
+
+## ⚾ Pitching Analysis – COGS 108  
+Data storytelling and pattern discovery from MLB pitching performance metrics.  
+🔗 [Live Site](https://raoguchi.github.io/PITCHING_ANALYSIS_C108/) | 💻 [GitHub](https://github.com/raoguchi/PITCHING_ANALYSIS_C108)
+
+---
+
+## 🚓 LA Crime Visualization - MGTA 452
+Temporal and geographic analysis of Los Angeles crime data using maps and plots.  
+🔗 [Live Site](https://raoguchi.github.io/LA_CRIME_ANALYSIS/) | 💻 [GitHub](https://github.com/raoguchi/LA_CRIME_ANALYSIS)
+
+---
+
+## 🍜 Recipe Analysis – M189  
+Ingredient analysis and cuisine classification using mathematical data analysis techniques.  
+🔗 [Live Site](https://raoguchi.github.io/RECEIPE_ANALYSIS_M189/) | 💻 [GitHub](https://github.com/raoguchi/RECEIPE_ANALYSIS_M189)

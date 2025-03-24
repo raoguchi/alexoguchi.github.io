@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alex Oguchi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+    right: 
+      - icon: github
+        href: https://github.com/raoguchi
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ryosuke-oguchi-06369520a/
+      - icon: Resume
+        href: resume.pdf
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

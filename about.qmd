@@ -1,0 +1,39 @@
+---
+title: "About"
+format: html
+---
+
+# About
+
+I'm Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady School of Management, UC San Diego (expected June 2025). I also hold dual bachelor's degrees in Business Economics and International Business, with a minor in Data Science.
+
+## Skills
+
+- **Languages**: Python, R, SQL, Stata  
+- **Libraries/Tools**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git  
+- **Database/ETL**: Postgres, Snowflake, SQL-based pipelines  
+- **Visualization**: Tableau, D3.js, Quarto, Matplotlib, Svelte  
+- **Spoken Languages**: English, Japanese  
+
+## Experience
+
+- **Warehouse Merchandising Assistant**, Ultima Supply (2022–present)  
+  Marketing strategy, e-commerce ops, and trade negotiations  
+
+- **Dining Unit Student Coordinator**, UCSD HDH (2023–2024)  
+  Managed 90+ staff, coordinated renovations, built training modules  
+
+- **Associate Intern**, Japanese Travel Bureau USA (2022)  
+  Process documentation, campaign analysis, and stakeholder research  
+
+## Education
+
+- **M.S. Business Analytics**, UC San Diego (2025)  
+- **B.S. Business Economics, B.A. International Business**, UC San Diego (2024)  
+- **Minor**: Data Science
+
+## Contact
+
+- [GitHub](https://github.com/raoguchi)  
+- [LinkedIn](https://www.linkedin.com/in/ryosuke-oguchi-06369520a/)  
+- [Email](mailto:alexoguchi@gmail.com)
