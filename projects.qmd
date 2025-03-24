@@ -30,7 +30,7 @@ Tableau dashboards on pay equity, performance, and gender in academia.
 
 ---
 
-## 🕹️ League of Legends Esports Analysis  
+## 🕹️ League of Legends Esports Analysis - DSC 80
 Interactive dashboards of League of Legends esports performance and meta trends.  
 🔗 [Live Site](https://raoguchi.github.io/LOL_ESPORTS_ANALYSIS/) | 💻 [GitHub](https://github.com/raoguchi/LOL_ESPORTS_ANALYSIS)
 
