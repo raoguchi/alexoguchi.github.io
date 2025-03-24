@@ -17,7 +17,7 @@ website:
         href: https://github.com/raoguchi
       - icon: linkedin
         href: https://www.linkedin.com/in/ryosuke-oguchi-06369520a/
-      - icon: Resume
+      - text: Resume
         href: resume.pdf
 
 format:
