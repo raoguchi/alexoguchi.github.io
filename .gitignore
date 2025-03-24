@@ -1,0 +1,28 @@
+# Quarto output
+docs/
+
+# R/RStudio
+.Rhistory
+.RData
+.Rproj.user
+.Rproj
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.aux
+*.out
+
+# Quarto preview cache
+_quarto_cache/
+
+/.quarto/

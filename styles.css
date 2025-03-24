@@ -1,1 +1,31 @@
 /* css styles */
+/* styles.css */
+
+body {
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 1px dotted #888;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar {
+    font-size: 0.95rem;
+}
+
+main {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
