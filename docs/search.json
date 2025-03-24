@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady School of Management, UC San Diego (expected June 2025). I also hold dual bachelor’s degrees in Business Economics and International Business, with a minor in Data Science.\n\n\n\nLanguages: Python, R, SQL, Stata\n\nLibraries/Tools: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git\n\nDatabase/ETL: Postgres, Snowflake, SQL-based pipelines\n\nVisualization: Tableau, D3.js, Quarto, Matplotlib, Svelte\n\nSpoken Languages: English, Japanese\n\n\n\n\n\nWarehouse Merchandising Assistant, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nDining Unit Student Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations, built training modules\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research\n\n\n\n\n\nM.S. Business Analytics, UC San Diego (2025)\n\nB.S. Business Economics, B.A. International Business, UC San Diego (2024)\n\nMinor: Data Science\n\n\n\n\n\nGitHub\n\nLinkedIn\n\nEmail"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "",
+    "text": "Languages: Python, R, SQL, Stata\n\nLibraries/Tools: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git\n\nDatabase/ETL: Postgres, Snowflake, SQL-based pipelines\n\nVisualization: Tableau, D3.js, Quarto, Matplotlib, Svelte\n\nSpoken Languages: English, Japanese"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "",
+    "text": "Warehouse Merchandising Assistant, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nDining Unit Student Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations, built training modules\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "M.S. Business Analytics, UC San Diego (2025)\n\nB.S. Business Economics, B.A. International Business, UC San Diego (2024)\n\nMinor: Data Science"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "",
+    "text": "GitHub\n\nLinkedIn\n\nEmail"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Alex Oguchi\nI’m a graduate student in Business Analytics at UC San Diego with a background in economics, international business, and data science. My work focuses on applied machine learning, data analysis, and building comprehensive analysis on data.\nThis site highlights selected projects in: - Data visualization (D3.js, Tableau, Svelte) - Machine learning (Scikit-learn, PyTorch) - ETL pipelines and data engineering (SQL, Postgres, Snowflake) - Data Analysis (Python, Pandas, Numpy. Statsmodels)\nView my projects, learn more about me, or visit my GitHub."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A collection of course and personal projects across machine learning, data visualization, and analytics.\n\n\n\nExplore optimization using coordinate descent on convex loss functions.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nInstance-based learning with MNIST using Random, CNN, and K-Means methods.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nComparison of different prototype selection methods against Deep Learning algorithms and adaptive learning methods.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nTableau dashboards on pay equity, performance, and gender in academia.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nInteractive dashboards of League of Legends esports performance and meta trends.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nStat exploration for pitching attributes using interactive visualizations.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nAnimated SVM decision boundary and margin exploration with baseball features.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nEnd-to-end data pipeline: extracting, transforming, and loading a business dataset.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nData storytelling and pattern discovery from MLB pitching performance metrics.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nTemporal and geographic analysis of Los Angeles crime data using maps and plots.\n🔗 Live Site | 💻 GitHub\n\n\n\n\nIngredient analysis and cuisine classification using mathematical data analysis techniques.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#coordinate-descent-cse-251a",
+    "href": "projects.html#coordinate-descent-cse-251a",
+    "title": "Projects",
+    "section": "",
+    "text": "Explore optimization using coordinate descent on convex loss functions.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#prototype-selection-cse-251a",
+    "href": "projects.html#prototype-selection-cse-251a",
+    "title": "Projects",
+    "section": "",
+    "text": "Instance-based learning with MNIST using Random, CNN, and K-Means methods.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#image-machine-learning-vs-prototypes-vs-deep-learning-algorithms-mgta-415",
+    "href": "projects.html#image-machine-learning-vs-prototypes-vs-deep-learning-algorithms-mgta-415",
+    "title": "Projects",
+    "section": "",
+    "text": "Comparison of different prototype selection methods against Deep Learning algorithms and adaptive learning methods.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#capes-salary-analysis-mgta-457",
+    "href": "projects.html#capes-salary-analysis-mgta-457",
+    "title": "Projects",
+    "section": "",
+    "text": "Tableau dashboards on pay equity, performance, and gender in academia.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#league-of-legends-esports-analysis",
+    "href": "projects.html#league-of-legends-esports-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Interactive dashboards of League of Legends esports performance and meta trends.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#mlb-interactive-visualization---dsc-106",
+    "href": "projects.html#mlb-interactive-visualization---dsc-106",
+    "title": "Projects",
+    "section": "",
+    "text": "Stat exploration for pitching attributes using interactive visualizations.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#svm-visualizer-dsc-106",
+    "href": "projects.html#svm-visualizer-dsc-106",
+    "title": "Projects",
+    "section": "",
+    "text": "Animated SVM decision boundary and margin exploration with baseball features.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#etl-pipeline-mgta-464",
+    "href": "projects.html#etl-pipeline-mgta-464",
+    "title": "Projects",
+    "section": "",
+    "text": "End-to-end data pipeline: extracting, transforming, and loading a business dataset.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#pitching-analysis-cogs-108",
+    "href": "projects.html#pitching-analysis-cogs-108",
+    "title": "Projects",
+    "section": "",
+    "text": "Data storytelling and pattern discovery from MLB pitching performance metrics.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#la-crime-visualization---mgta-452",
+    "href": "projects.html#la-crime-visualization---mgta-452",
+    "title": "Projects",
+    "section": "",
+    "text": "Temporal and geographic analysis of Los Angeles crime data using maps and plots.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "projects.html#recipe-analysis-m189",
+    "href": "projects.html#recipe-analysis-m189",
+    "title": "Projects",
+    "section": "",
+    "text": "Ingredient analysis and cuisine classification using mathematical data analysis techniques.\n🔗 Live Site | 💻 GitHub"
+  }
+]
