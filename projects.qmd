@@ -2,9 +2,7 @@
 title: "Projects"
 ---
 
-# Projects
-
-A collection of course and personal projects across machine learning, data visualization, and analytics.
+## A collection of course and personal projects across machine learning, data visualization, and analytics.
 
 ---
 

@@ -11,7 +11,7 @@ I'm Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady Sc
 
 - **Languages**: Python, R, SQL, Stata  
 - **Libraries/Tools**: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git  
-- **Database/ETL**: Postgres, Snowflake, SQL-based pipelines  
+- **Database/ETL**: PostgresSQL, Snowflake, SQL-based pipelines  
 - **Visualization**: Tableau, D3.js, Quarto, Matplotlib, Svelte  
 - **Spoken Languages**: English, Japanese  
 
@@ -21,7 +21,10 @@ I'm Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady Sc
   Marketing strategy, e-commerce ops, and trade negotiations  
 
 - **Dining Unit Student Coordinator**, UCSD HDH (2023–2024)  
-  Managed 90+ staff, coordinated renovations, built training modules  
+  Managed 90+ staff, coordinated renovations with administration, built training modules
+
+- **Instructional Assistant**, UCSD Economics Department (Early 2024)
+  Helped students with Microeconomic Coursework (ECON 100A) via office hours and review sessions
 
 - **Associate Intern**, Japanese Travel Bureau USA (2022)  
   Process documentation, campaign analysis, and stakeholder research  
