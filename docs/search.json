@@ -35,18 +35,18 @@
     "text": "GitHub\n\nLinkedIn\n\nEmail"
   },
   {
-    "objectID": "projects.html#ai-powered-recruiting-assistant-cse-251a",
-    "href": "projects.html#ai-powered-recruiting-assistant-cse-251a",
+    "objectID": "projects.html#ai-powered-recruiting-assistant-mgta-495",
+    "href": "projects.html#ai-powered-recruiting-assistant-mgta-495",
     "title": "Projects",
-    "section": "🤖 AI-Powered Recruiting Assistant – CSE 251A",
-    "text": "🤖 AI-Powered Recruiting Assistant – CSE 251A\nAutomate the hiring pipeline with LLMs: from job descriptions to interviews to offer letters.\n🔗 Live Demo | 💻 HuggingFace"
+    "section": "🤖 AI-Powered Recruiting Assistant – MGTA 495",
+    "text": "🤖 AI-Powered Recruiting Assistant – MGTA 495\nAutomate the hiring pipeline with LLMs: from job descriptions to interviews to offer letters.\n🔗 Live Demo | 💻 HuggingFace"
   },
   {
-    "objectID": "projects.html#coordinate-descent-mgta-495",
-    "href": "projects.html#coordinate-descent-mgta-495",
+    "objectID": "projects.html#coordinate-descent-cse-251a",
+    "href": "projects.html#coordinate-descent-cse-251a",
     "title": "Projects",
-    "section": "📍 Coordinate Descent – MGTA 495",
-    "text": "📍 Coordinate Descent – MGTA 495\nExplore optimization using coordinate descent on convex loss functions.\n🔗 Live Site | 💻 GitHub"
+    "section": "📍 Coordinate Descent – CSE 251A",
+    "text": "📍 Coordinate Descent – CSE 251A\nExplore optimization using coordinate descent on convex loss functions.\n🔗 Live Site | 💻 GitHub"
   },
   {
     "objectID": "projects.html#prototype-selection-cse-251a",

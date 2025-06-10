@@ -6,13 +6,13 @@ title: "Projects"
 
 ---
 
-## 🤖 AI-Powered Recruiting Assistant – CSE 251A  
+## 🤖 AI-Powered Recruiting Assistant – MGTA 495  
 Automate the hiring pipeline with LLMs: from job descriptions to interviews to offer letters.  
 🔗 [Live Demo](https://huggingface.co/spaces/rsm-genai/group-13) | 💻 [HuggingFace](https://huggingface.co/spaces/rsm-genai/group-13/tree/main)
 
 ---
 
-## 📍 Coordinate Descent – MGTA 495  
+## 📍 Coordinate Descent – CSE 251A  
 Explore optimization using coordinate descent on convex loss functions.  
 🔗 [Live Site](https://raoguchi.github.io/COORDINATE_DESC_C251/) | 💻 [GitHub](https://github.com/raoguchi/COORDINATE_DESC_C251)
 
