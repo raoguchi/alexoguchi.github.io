@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady School of Management, UC San Diego (expected June 2025). I also hold dual bachelor’s degrees in Business Economics and International Business, with a minor in Data Science.\n\n\n\nLanguages: Python, R, SQL, Stata\n\nLibraries/Tools: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git\n\nDatabase/ETL: PostgresSQL, Snowflake, SQL-based pipelines\n\nVisualization: Tableau, D3.js, Quarto, Matplotlib, Svelte\n\nSpoken Languages: English, Japanese\n\n\n\n\n\nE-Commerce Merchandising Assistant, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nDining Unit Student Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations with administration, built training modules\nInstructional Assistant, UCSD Economics Department (Early 2024) Helped students with Microeconomic Coursework (ECON 100A) via office hours and review sessions\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research\n\n\n\n\n\nM.S. Business Analytics, UC San Diego (2025)\n\nB.S. Business Economics, B.A. International Business, UC San Diego (2024)\n\nMinor: Data Science\n\n\n\n\n\nGitHub\n\nLinkedIn\n\nEmail"
+    "text": "I’m Alex Oguchi, currently pursuing an M.S. in Business Analytics at the Rady School of Management, UC San Diego (expected June 2025). I also hold dual bachelor’s degrees in Business Economics and International Business, with a minor in Data Science.\n\n\n\nLanguages: Python, R, SQL, Stata\n\nLibraries/Tools: Pandas, NumPy, Scikit-Learn, PyTorch, Tableau, Statsmodels, Git\n\nDatabase/ETL: PostgresSQL, Snowflake, SQL-based pipelines\n\nVisualization: Tableau, D3.js, Quarto, Matplotlib, Svelte\n\nSpoken Languages: English, Japanese\n\n\n\n\n\nE-Commerce Marketing Strategist, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nStudent Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations with administration, built training modules\nInstructional Assistant, UCSD Economics Department (Early 2024) Helped students with Microeconomic Coursework (ECON 100A) via office hours and review sessions\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research\n\n\n\n\n\nM.S. Business Analytics, UC San Diego (2025)\n\nB.S. Business Economics, B.A. International Business, UC San Diego (2024)\n\nMinor: Data Science\n\n\n\n\n\nGitHub\n\nLinkedIn\n\nEmail"
   },
   {
     "objectID": "about.html#skills",
@@ -18,7 +18,7 @@
     "href": "about.html#experience",
     "title": "About",
     "section": "",
-    "text": "E-Commerce Merchandising Assistant, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nDining Unit Student Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations with administration, built training modules\nInstructional Assistant, UCSD Economics Department (Early 2024) Helped students with Microeconomic Coursework (ECON 100A) via office hours and review sessions\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research"
+    "text": "E-Commerce Marketing Strategist, Ultima Supply (2022–present)\nMarketing strategy, e-commerce ops, and trade negotiations\nStudent Coordinator, UCSD HDH (2023–2024)\nManaged 90+ staff, coordinated renovations with administration, built training modules\nInstructional Assistant, UCSD Economics Department (Early 2024) Helped students with Microeconomic Coursework (ECON 100A) via office hours and review sessions\nAssociate Intern, Japanese Travel Bureau USA (2022)\nProcess documentation, campaign analysis, and stakeholder research"
   },
   {
     "objectID": "about.html#education",
@@ -35,11 +35,11 @@
     "text": "GitHub\n\nLinkedIn\n\nEmail"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Alex Oguchi\nI’m a graduate student in Business Analytics at UC San Diego with a background in economics, international business, and data science. My work focuses on applied machine learning, data analysis, and building comprehensive analysis on data.\nThis site highlights selected projects in: - Data visualization (D3.js, Tableau, Svelte) - Machine learning (Scikit-learn, PyTorch) - ETL pipelines and data engineering (SQL, Postgres, Snowflake) - Data Analysis (Python, Pandas, Numpy, Statsmodels)\nView my projects, learn more about me, or visit my GitHub."
+    "objectID": "projects.html#ai-powered-recruiting-assistant-cse-251a",
+    "href": "projects.html#ai-powered-recruiting-assistant-cse-251a",
+    "title": "Projects",
+    "section": "🤖 AI-Powered Recruiting Assistant – CSE 251A",
+    "text": "🤖 AI-Powered Recruiting Assistant – CSE 251A\nAutomate the hiring pipeline with LLMs: from job descriptions to interviews to offer letters.\n🔗 Live Demo | 💻 HuggingFace"
   },
   {
     "objectID": "projects.html#coordinate-descent-cse-251a",
@@ -117,5 +117,12 @@
     "title": "Projects",
     "section": "🍜 Recipe Analysis – M189",
     "text": "🍜 Recipe Analysis – M189\nIngredient analysis and cuisine classification using mathematical data analysis techniques.\n🔗 Live Site | 💻 GitHub"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Alex Oguchi\nI’m a graduate student in Business Analytics at UC San Diego with a background in economics, international business, and data science. My work focuses on applied machine learning, data analysis, and building comprehensive analysis on data.\nThis site highlights selected projects in: - Data visualization (D3.js, Tableau, Svelte) - Machine learning (Scikit-learn, PyTorch) - ETL pipelines and data engineering (SQL, Postgres, Snowflake) - Data Analysis (Python, Pandas, Numpy, Statsmodels)\nView my projects, learn more about me, or visit my GitHub."
   }
 ]
