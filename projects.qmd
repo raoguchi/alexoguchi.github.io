@@ -12,7 +12,7 @@ Automate the hiring pipeline with LLMs: from job descriptions to interviews to o
 
 ---
 
-## 📍 Coordinate Descent – CSE 251A  
+## 📍 Coordinate Descent – MGTA 495  
 Explore optimization using coordinate descent on convex loss functions.  
 🔗 [Live Site](https://raoguchi.github.io/COORDINATE_DESC_C251/) | 💻 [GitHub](https://github.com/raoguchi/COORDINATE_DESC_C251)
 
