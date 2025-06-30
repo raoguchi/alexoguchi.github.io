@@ -8,7 +8,7 @@ title: "Projects"
 
 ## 🤖 AI-Powered Recruiting Assistant – MGTA 495  
 Automate the hiring pipeline with LLMs: from job descriptions to interviews to offer letters.  
-🔗 [Live Demo](https://huggingface.co/spaces/rsm-genai/group-13) | 💻 [HuggingFace](https://huggingface.co/spaces/rsm-genai/group-13/tree/main)
+🔗 [Live Demo](https://huggingface.co/spaces/roguchi/ai_recruiter) | 💻 [HuggingFace](https://huggingface.co/spaces/roguchi/ai_recruiter/tree/main)
 
 ---
 
